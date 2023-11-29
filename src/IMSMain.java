@@ -89,12 +89,8 @@ public class IMSMain {
             } catch (Exception e) {
                 System.out.println("I'm sorry but your input is invalid" + e.toString());
                 introMsg();
-            } finally {
-                if (!userChoice01.equalsIgnoreCase("g"))
-                    if (!userChoice01.equalsIgnoreCase("a")) {
-                        System.out.println("I'm sorry but your input is invalid, ");
-                    }
             }
+
 
         }
 
