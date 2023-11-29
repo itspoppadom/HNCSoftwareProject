@@ -52,6 +52,7 @@ public class IMSMain {
                     pCheck = true ;
                 } else {
                     System.out.println("I'm sorry but you cannot access the admin settings. ");
+                    System.exit(1);
                 }
 
             } catch (IOException e) {
@@ -95,8 +96,25 @@ public class IMSMain {
         }
 
     }
+    public static void userReturnPrompt(){
+        Scanner promptReturn = new Scanner(System.in);
+        System.out.println("Would you like to return to the main menu? Please enter Y(YES) or N(NO) ");
+        String promptRUser = promptReturn.next();
+        try {
+            if(promptRUser.equalsIgnoreCase("y")){
+                introMsg();
+            }
+            else if (promptRUser.equalsIgnoreCase("n")) {
+                System.exit(1);
+            }
+
+        } catch (Exception e) {
+            System.out.println("Invalid input" + e.toString());
+            System.exit(1);
+        }
+    }
     public static void main(String[] args) {
         KeyCheck();
-
+        userReturnPrompt();
     }
 }
