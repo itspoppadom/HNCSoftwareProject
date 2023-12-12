@@ -1,0 +1,30 @@
+Desktop Computer,Computers,Silver,10,899.99
+Laptop Computer,Computers,Black,15,1299.99
+Gaming PC,Computers,Red,5,1999.99
+Mini PC,Computers,White,8,699.99
+All-in-One PC,Computers,Gray,12,1499.99
+Workstation,Computers,Blue,7,2499.99
+Ultra-thin Laptop,Laptops,Silver,20,1099.99
+Gaming Laptop,Laptops,Black,8,1799.99
+Convertible Laptop,Laptops,Gold,15,1299.99
+Business Laptop,Laptops,Gray,12,1399.99
+Chromebook,Laptops,Blue,25,499.99
+Student Laptop,Laptops,Red,18,899.99
+27-inch 4K Monitor,Monitors,Black,30,499.99
+Curved Gaming Monitor,Monitors,Red,15,699.99
+UltraWide Monitor,Monitors,Silver,10,899.99
+Portable Monitor,Monitors,White,5,249.99
+Dual Monitor Setup,Monitors,Gray,20,799.99
+Touchscreen Monitor,Monitors,Blue,8,349.99
+Mechanical Keyboard,Peripherals,Black,50,129.99
+Gaming Mouse,Peripherals,RGB,40,79.99
+Wireless Headset,Peripherals,White,25,149.99
+External Hard Drive,Peripherals,Silver,15,89.99
+Printer,Peripherals,Gray,12,199.99
+Webcam,Peripherals,Blue,18,49.99
+Laptop Sleeve,Accessories,Gray,30,19.99
+Wire Organizer,Accessories,Blue,25,9.99
+Phone Stand,Accessories,Black,20,14.99
+Gaming Chair,Accessories,Red,10,199.99
+Cable Management Kit,Accessories,White,15,12.99
+Desk Organizer,Accessories,Silver,8,24.99
