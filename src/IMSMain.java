@@ -41,6 +41,7 @@ public class IMSMain {
 
     }
     public static boolean adminPcheck() {
+        System.out.println("In order to proceed please enter the secret passphrase. ");
         Scanner adInput = new Scanner(System.in);
         boolean pCheck = false ;
         while (!pCheck) {
@@ -60,13 +61,12 @@ public class IMSMain {
             }
         }
         if (pCheck){
-            System.out.println("Welcome back Operator. You have successfully entered the privileged settings. ");
+            admin();
         }
         return pCheck;
     }
     public static void admin(){
-    System.out.println("In order to proceed please enter the secret passphrase. ");
-    adminPcheck();
+        System.out.println("Welcome back Operator. You have successfully entered the privileged settings. ");
 
     }
     public static void introMsg(){
@@ -82,7 +82,7 @@ public class IMSMain {
                     guest();
                     OnCheck = true ;
                 } else if (userChoice01.equalsIgnoreCase("a")){
-                    admin();
+                    adminPcheck();
                     OnCheck = true ;
                 } else {
                     OnCheck = false;
