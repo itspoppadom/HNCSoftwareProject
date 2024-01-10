@@ -49,9 +49,11 @@ public class IMSMain {
                 } else if (guestIn1.equalsIgnoreCase("c")){
                     stockCat(thisClass);
                     gCheck = true ;
+                    userReturnPrompt(thisClass);
                 } else if (guestIn1.equalsIgnoreCase("b")){
                     gBasket();
                     gCheck = true ;
+                    userReturnPrompt(thisClass);
                 } else {
                     gCheck = false;
                 }
