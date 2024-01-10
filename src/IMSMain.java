@@ -43,7 +43,7 @@ public class IMSMain {
             String guestIn1 = gInput.next();
             try {
                 if (guestIn1.equalsIgnoreCase("i")) {
-                    displayAllitems(thisClass);
+                    displayAllitemsG(thisClass);
                     gCheck = true ;
 
                 } else if (guestIn1.equalsIgnoreCase("c")){
@@ -62,7 +62,17 @@ public class IMSMain {
                 guest(thisClass);
             } }
     }
+    public static void displayAllitemsG(ArrayList<Items> thisClass){
+        // note the slight change to this procedure
+        for (int i = 0; i < thisClass.size();i++) {
+            Items thisItems = (Items)thisClass.get(i);
+            System.out.format("(%d) ,%s , %s, %s, %d, %.2f \n",i, thisItems.itemName, thisItems.itemCat, thisItems.itemColour, thisItems.itemQty, thisItems.itemPrice);
+        }
+        Scanner GuestPrompt = new Scanner(System.in);
+        System.out.println("You can either add the items to a basket, or filter them down by Category.\n  To access basket feature's please enter (B). \nTo filter by category please enter (C)");
+        String GuestPromptResponse = GuestPrompt.next();
 
+    }
 
     public static void stockCat(ArrayList<Items> thisClass){
         System.out.println("Test Category");
@@ -111,7 +121,7 @@ public class IMSMain {
                 newitems.itemCat = allItems.get(1);
                 newitems.itemColour = allItems.get(2);
                 newitems.itemQty = Integer.parseInt(allItems.get(3));
-                newitems.itemPrice = Float.parseFloat(allItems.get(4));
+                newitems.itemPrice = Double.parseDouble(allItems.get(4));
                 thisClass.add(newitems);
                 line = in.readLine();
             }
@@ -158,8 +168,14 @@ public class IMSMain {
             Items thisItems = (Items)thisClass.get(i);
             System.out.format("(%d) ,%s , %s, %s, %d, %.2f \n",i, thisItems.itemName, thisItems.itemCat, thisItems.itemColour, thisItems.itemQty, thisItems.itemPrice);
         }
+        double TotalValue = 0.0;
+        for (Items price : thisClass) {
+            double itemTotal = price.itemQty * price.itemPrice;
+            TotalValue += itemTotal;
+            System.out.println("Item: " + price.itemName + ", Quantity: " + price.itemQty + ", Price: " + price.itemPrice +"Item total: "+itemTotal +  "  Running Total: " + TotalValue);
 
-        System.out.println("Would you like to see the total value of the stock? (Y) for Yes, (N) for No");
+        }
+            System.out.format("The total value of the stock is: £%.2f \n", TotalValue );
         }
     public static void introMsg(ArrayList<Items> thisClass){
         System.out.println("Welcome to the VStoq Inventory Management System, or IMS for short.\n Press G to enter the Guest mode, or A to enter the Administrator mode.");
