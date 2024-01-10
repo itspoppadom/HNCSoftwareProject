@@ -47,7 +47,7 @@ public class IMSMain {
                     gCheck = true ;
 
                 } else if (guestIn1.equalsIgnoreCase("c")){
-                    stockCat();
+                    stockCat(thisClass);
                     gCheck = true ;
                 } else if (guestIn1.equalsIgnoreCase("b")){
                     gBasket();
@@ -62,7 +62,7 @@ public class IMSMain {
     }
 
 
-    public static void stockCat(){
+    public static void stockCat(ArrayList<Items> thisClass){
         System.out.println("Test Category");
     }
     public static void gBasket(){
