@@ -154,9 +154,13 @@ public class IMSMain {
     }
     public static void displayAllitems(ArrayList<Items> thisClass){
         // note the slight change to this procedure
-        Items thisItems = (Items)thisClass.get(0);
-        System.out.format("%s , %s, %s, %d, %2f",thisItems.itemName,thisItems.itemCat, thisItems.itemColour, thisItems.itemQty, thisItems.itemPrice);
-    }
+        for (int i = 0; i < thisClass.size();i++) {
+            Items thisItems = (Items)thisClass.get(i);
+            System.out.format("(%d) ,%s , %s, %s, %d, %.2f \n",i, thisItems.itemName, thisItems.itemCat, thisItems.itemColour, thisItems.itemQty, thisItems.itemPrice);
+        }
+
+        System.out.println("Would you like to see the total value of the stock? (Y) for Yes, (N) for No");
+        }
     public static void introMsg(ArrayList<Items> thisClass){
         System.out.println("Welcome to the VStoq Inventory Management System, or IMS for short.\n Press G to enter the Guest mode, or A to enter the Administrator mode.");
         Scanner homeInput = new Scanner(System.in);
