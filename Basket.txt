@@ -1,1 +1,1 @@
-3|Item: Mini PC |Category: Computers |Colour White |Quantity 8| Price 699.99 
+16|Item: Dual Monitor Setup |Category: Monitors |Colour Gray |Quantity 20| Price 799.99 

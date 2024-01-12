@@ -177,9 +177,9 @@ public class IMSMain {
                 System.out.println("I'm sorry but something happened while opening the file: " + e.toString());
             }
         }
-        if (pCheck){
-            admin(thisClass, pCheck);
-        }
+        if (!pCheck) {
+            admin(thisClass, pCheck);}
+
 
         return pCheck;
     }
