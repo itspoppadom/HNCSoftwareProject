@@ -1,1 +1,1 @@
-1|Item: Laptop Computer |Category: Computers |Colour Black |Quantity 15| Price 1299.99 
+22|Item: Printer |Category: Peripherals |Colour Gray |Quantity 12| Price 199.99 

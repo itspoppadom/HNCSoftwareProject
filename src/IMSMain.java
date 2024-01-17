@@ -460,6 +460,8 @@ public class IMSMain {
             else if (promptRUser.equalsIgnoreCase("n")) {
                 logger.log(Level.INFO, "User choice: Exit ");
                 System.exit(1);
+            } else {
+                userReturnPrompt(thisClass, pCheck);
             }
 
         } catch (Exception e) {
@@ -476,9 +478,6 @@ public class IMSMain {
         ArrayList<Items> thisClass = new ArrayList<Items>();
         thisClass = initiateLoadingFiles(thisClass);
         boolean pCheck = false;
-        // Initialise variables and create a scanner
-
-
 
 
         //Run a function which will check for presence of a file which stores a password
@@ -491,12 +490,13 @@ public class IMSMain {
         while (!stockCheck) {
 
                 Scanner adInput = new Scanner(System.in);
-                logger.log(Level.CONFIG, "Loading files initiated.");
-                System.out.println("The system currently has no data in side of it. Please make sure the file items.txt is accessible \n Press Y to continue, or N to return to exit");
+                logger.log(Level.INFO, "Loading files initiated.");
+                System.out.println("The system currently has no data in side of it. Please make sure the file items.txt is accessible \n Press Y to continue, or N to exit");
                 String adChoice = adInput.next();
+
                 try {
                     if (adChoice.equalsIgnoreCase("y")) {
-                        logger.log(Level.CONFIG, "Files loaded successfully.");
+                        logger.log(Level.INFO, "File upload in progress.");
                         thisClass = loadFile("Items.txt");
                         // Loop for all objects in text file
 
