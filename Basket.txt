@@ -1,1 +1,1 @@
-22|Item: Printer |Category: Peripherals |Colour Gray |Quantity 12| Price 199.99 
+21|Item: External Hard Drive |Category: Peripherals |Colour Silver |Quantity 1| Price 89.99 

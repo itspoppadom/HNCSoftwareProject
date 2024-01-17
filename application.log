@@ -926,3 +926,2179 @@ Jan 17, 2024 12:01:53 PM IMSMain loadFile
 CONFIG: Data Array has been generated successfully.
 Jan 17, 2024 12:01:53 PM IMSMain introMsg
 INFO: Main menu loading
+Jan 17, 2024 5:27:48 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 5:27:49 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 5:28:03 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 5:28:03 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:05:30 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:05:30 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:06:41 PM IMSMain guest
+INFO: Guest Mode: Inventory accessed.
+Jan 17, 2024 6:06:41 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 6:09:29 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Search by Category view accessed.
+Jan 17, 2024 6:09:29 PM IMSMain stockCat
+INFO: Guest Mode: Search by category view has now been accessed.
+Jan 17, 2024 6:10:03 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 6:10:07 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 6:10:07 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:10:21 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 6:10:21 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 6:11:09 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Invalid logon detected! System will shutdown immediately.
+Jan 17, 2024 6:11:44 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 6:11:44 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 6:11:47 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:11:47 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:13:21 PM IMSMain introMsg
+INFO: UNDEFINED ANSWER PROVIDED, RELOAD INITIATED
+Jan 17, 2024 6:13:21 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:14:22 PM IMSMain introMsg
+INFO: UNDEFINED ANSWER PROVIDED, RELOAD INITIATED
+Jan 17, 2024 6:14:22 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:15:55 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:15:55 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:16:06 PM IMSMain guest
+INFO: Guest Mode: Search by Category view accessed .
+Jan 17, 2024 6:16:06 PM IMSMain stockCat
+INFO: Guest Mode: Search by category view has now been accessed.
+Jan 17, 2024 6:17:18 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 6:17:23 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 6:17:23 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:17:24 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:17:24 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:17:31 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 6:17:31 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 6:23:27 PM IMSMain gBasket
+WARNING: %s , Item has been added to the basket, lowering the Quantity in the array.External Hard Drive
+Jan 17, 2024 6:23:27 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 6:23:51 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 6:23:51 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:24:00 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:24:00 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:24:02 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 6:24:02 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 6:25:57 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 6:25:57 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 6:26:01 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:26:01 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:26:03 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:26:03 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:26:05 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 6:26:05 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 6:27:58 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 6:27:58 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 6:28:01 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:28:01 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:28:03 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:28:03 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:28:05 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 6:28:05 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 6:28:11 PM IMSMain gBasket
+WARNING: %s , Item has been added to the basket, lowering the Quantity in the array.External Hard Drive
+Jan 17, 2024 6:28:11 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 6:31:26 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 6:31:26 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 6:31:30 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:31:30 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:31:49 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:31:49 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:31:51 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 6:31:51 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 6:31:58 PM IMSMain gBasket
+WARNING: Following Item has been added to the basket, lowering the Quantity in the array: External Hard Drive
+Jan 17, 2024 6:31:58 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 6:33:50 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 6:33:50 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:33:52 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:33:52 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:34:00 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 6:34:00 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 6:35:11 PM IMSMain gBasket
+WARNING: Following Item has been added to the basket, lowering the Quantity in the array: External Hard Drive
+Jan 17, 2024 6:35:11 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 6:35:37 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 6:35:37 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:35:38 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:35:38 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:35:41 PM IMSMain guest
+INFO: Guest Mode: Inventory accessed.
+Jan 17, 2024 6:35:41 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 6:39:13 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Basket accessed.
+Jan 17, 2024 6:39:13 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 6:39:17 PM IMSMain gBasket
+WARNING: Following Item has been added to the basket, lowering the Quantity in the array: External Hard Drive
+Jan 17, 2024 6:39:17 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 6:39:24 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 6:39:24 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:39:28 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:39:28 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:40:10 PM IMSMain guest
+INFO: Guest Mode: Inventory accessed.
+Jan 17, 2024 6:40:10 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 6:40:54 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 6:40:54 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 6:40:56 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:40:56 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:41:02 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:41:02 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:41:08 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:41:59 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 6:41:59 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 6:42:02 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:42:02 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:42:07 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:42:07 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:42:14 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:43:10 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 6:43:10 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 6:43:11 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 6:43:11 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 6:43:12 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 6:43:12 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:43:16 PM IMSMain guest
+INFO: Guest Mode: Input mismatch, please refer to instructions
+Jan 17, 2024 6:43:16 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:44:00 PM IMSMain guest
+INFO: Guest Mode: Input mismatch, please refer to instructions
+Jan 17, 2024 6:44:00 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:44:34 PM IMSMain guest
+INFO: Guest Mode: Input mismatch, please refer to instructions
+Jan 17, 2024 6:44:34 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 6:46:18 PM IMSMain guest
+INFO: Guest Mode: Inventory accessed.
+Jan 17, 2024 6:46:18 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 6:59:09 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Basket accessed.
+Jan 17, 2024 6:59:09 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:00:45 PM IMSMain gBasket
+WARNING: Following Item has been added to the basket, lowering the Quantity in the array: External Hard Drive
+Jan 17, 2024 7:00:45 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 7:00:47 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 7:00:47 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:00:49 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:00:49 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:00:52 PM IMSMain guest
+INFO: Guest Mode: Inventory accessed.
+Jan 17, 2024 7:00:52 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 7:00:56 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Search by Category view accessed.
+Jan 17, 2024 7:00:56 PM IMSMain stockCat
+INFO: Guest Mode: Search by category view has now been accessed.
+Jan 17, 2024 7:01:33 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 7:01:34 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 7:01:34 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:01:35 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:01:35 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:01:36 PM IMSMain guest
+INFO: Guest Mode: Inventory accessed.
+Jan 17, 2024 7:01:36 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 7:01:39 PM IMSMain displayAllitemsG
+INFO: Guest Mode: User choice undefined retrying.
+Jan 17, 2024 7:01:39 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 7:03:34 PM IMSMain displayAllitemsG
+INFO: Guest Mode: User choice undefined retrying.
+Jan 17, 2024 7:03:34 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 7:04:22 PM IMSMain displayAllitemsG
+INFO: Guest Mode: User choice undefined retrying.
+Jan 17, 2024 7:04:22 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 7:05:11 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Basket accessed.
+Jan 17, 2024 7:05:11 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:12:48 PM IMSMain gBasket
+WARNING: Following Item has been added to the basket, lowering the Quantity in the array: Gaming PC
+Jan 17, 2024 7:12:48 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 7:15:19 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 7:15:19 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:15:21 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:15:21 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:15:25 PM IMSMain guest
+INFO: Guest Mode: Inventory accessed.
+Jan 17, 2024 7:15:25 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Inventory displayed.
+Jan 17, 2024 7:15:27 PM IMSMain displayAllitemsG
+INFO: Guest Mode: Basket accessed.
+Jan 17, 2024 7:15:27 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:17:04 PM IMSMain gBasket
+WARNING: Following Item has been added to the basket, lowering the Quantity in the array: External Hard Drive
+Jan 17, 2024 7:17:04 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 7:18:21 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 7:18:21 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:18:22 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:18:22 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:18:26 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 7:18:26 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:18:34 PM IMSMain gBasket
+INFO: Guest Basket: Invalid index entered. Reloading Basket. 
+Jan 17, 2024 7:18:34 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:19:23 PM IMSMain gBasket
+INFO: Guest Basket: Invalid index entered. Reloading Basket. 
+Jan 17, 2024 7:19:23 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:19:53 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:23:22 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 7:23:22 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 7:23:24 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:23:24 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:23:26 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:23:26 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:23:30 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 7:23:30 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:23:34 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:28:48 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 7:28:48 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 7:28:51 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:28:51 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:29:28 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:29:28 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:29:30 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 7:29:30 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:29:32 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:29:45 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 7:29:46 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 7:29:50 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:29:50 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:29:53 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:29:53 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:30:08 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 7:30:08 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:30:10 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:37:21 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 7:37:21 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 7:37:23 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 7:37:23 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:37:24 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:37:24 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:37:27 PM IMSMain guest
+INFO: Guest Mode: User Basket accessed.
+Jan 17, 2024 7:37:27 PM IMSMain gBasket
+INFO: Guest Mode: Guest Basket accessed.
+Jan 17, 2024 7:37:30 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:41:23 PM IMSMain guest
+INFO: Guest Mode: Search by Category view accessed .
+Jan 17, 2024 7:41:23 PM IMSMain stockCat
+INFO: Guest Mode: Search by category view has now been accessed.
+Jan 17, 2024 7:46:01 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 7:46:45 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 7:46:45 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:46:46 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:46:46 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:46:49 PM IMSMain guest
+INFO: Guest Mode: Search by Category view accessed .
+Jan 17, 2024 7:46:49 PM IMSMain stockCat
+INFO: Guest Mode: Search by category view has now been accessed.
+Jan 17, 2024 7:46:53 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 7:47:52 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 7:47:52 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 7:47:55 PM IMSMain introMsg
+INFO: GUEST MODE ACTIVATED
+Jan 17, 2024 7:47:55 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:47:56 PM IMSMain guest
+INFO: Guest Mode: Search by Category view accessed .
+Jan 17, 2024 7:47:56 PM IMSMain stockCat
+INFO: Guest Mode: Search by category view has now been accessed.
+Jan 17, 2024 7:47:59 PM IMSMain stockCat
+INFO: Guest Mode: Input outside of scope
+Jan 17, 2024 7:47:59 PM IMSMain stockCat
+INFO: Guest Mode: Search by category view has now been accessed.
+Jan 17, 2024 7:48:30 PM IMSMain stockCat
+INFO: Guest Mode: Input outside of scope
+Jan 17, 2024 7:48:30 PM IMSMain stockCat
+INFO: Guest Mode: Search by category view has now been accessed.
+Jan 17, 2024 7:49:04 PM IMSMain guest
+INFO: Guest panel accessed successfully 
+Jan 17, 2024 7:50:53 PM IMSMain guest
+INFO: Guest Mode: Search by Category view accessed .
+Jan 17, 2024 7:50:53 PM IMSMain stockCat
+INFO: Guest Mode: Search by category view has now been accessed.
+Jan 17, 2024 7:50:55 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 7:50:57 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 7:50:57 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 8:50:36 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 8:50:36 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 8:50:38 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:50:38 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 8:50:40 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 8:50:40 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 8:50:48 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 8:50:48 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 8:52:54 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 8:52:54 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 8:52:56 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:52:56 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 8:52:57 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 8:52:57 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 8:55:24 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Invalid logon detected! System will shutdown immediately.
+Jan 17, 2024 8:57:35 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 8:57:35 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 8:57:36 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 8:57:36 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 8:57:37 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 8:57:37 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 8:57:41 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Invalid logon detected! System will shutdown immediately.
+Jan 17, 2024 9:01:59 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 9:01:59 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 9:02:03 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:02:03 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:02:04 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:02:04 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:02:07 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:02:07 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:02:18 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:03:19 PM IMSMain displayAllitems
+INFO: Admin Mode: Return to main menu prompted.
+Jan 17, 2024 9:03:19 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 9:03:37 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 9:03:37 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:03:40 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:03:40 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:03:40 PM IMSMain KeyCheck
+INFO: *RUNNING CONFIG DETECTED, PROCEEDING TO VSTOQ IMS
+Jan 17, 2024 9:03:40 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 9:03:41 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 9:03:49 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 9:03:49 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:03:50 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:03:50 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:03:51 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:03:51 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:04:02 PM IMSMain admin
+INFO: Admin Mode: Return to Main menu initiated .
+Jan 17, 2024 9:04:02 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 9:04:48 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 9:04:48 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:04:49 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:04:49 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:05:35 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:05:55 PM IMSMain displayAllitems
+INFO: Admin Mode: Return to main menu prompted.
+Jan 17, 2024 9:05:55 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 9:05:58 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 9:05:58 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:06:01 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:06:01 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:06:12 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 9:06:13 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 9:06:15 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:06:15 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:06:16 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:06:16 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:06:26 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:06:26 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:08:39 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:11:29 PM IMSMain KeyCheck
+INFO: *RUNNING CONFIG DETECTED, PROCEEDING TO VSTOQ IMS
+Jan 17, 2024 9:11:29 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 9:12:20 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 9:12:20 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:12:21 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:12:21 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:12:23 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:12:23 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:12:29 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:15:08 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 9:15:09 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 9:15:11 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:15:11 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:15:12 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:15:12 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:15:16 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:15:16 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:15:22 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:15:25 PM IMSMain KeyCheck
+INFO: *RUNNING CONFIG DETECTED, PROCEEDING TO VSTOQ IMS
+Jan 17, 2024 9:15:25 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 9:17:00 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 9:17:00 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:17:04 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:17:04 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:17:06 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:17:06 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:17:10 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:20:23 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 9:20:23 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 9:20:27 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:20:27 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:20:29 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:20:29 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:20:31 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:20:31 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:20:33 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:20:37 PM IMSMain displayAllitems
+INFO: Admin Mode: Invalid input detected please try again
+Jan 17, 2024 9:21:12 PM IMSMain displayAllitems
+INFO: Admin Mode: Invalid input detected please try again
+Jan 17, 2024 9:21:51 PM IMSMain displayAllitems
+INFO: Admin Mode: Return to main menu prompted.
+Jan 17, 2024 9:21:51 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 9:23:22 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 9:23:22 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:23:25 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:23:25 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:23:25 PM IMSMain KeyCheck
+INFO: *RUNNING CONFIG DETECTED, PROCEEDING TO VSTOQ IMS
+Jan 17, 2024 9:23:25 PM IMSMain userReturnPrompt
+INFO: System waiting for user choice(Return to Main Menu).
+Jan 17, 2024 9:23:44 PM IMSMain userReturnPrompt
+INFO: User choice: Main Menu
+Jan 17, 2024 9:23:44 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:23:46 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:23:46 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:23:51 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Invalid logon detected! System will shutdown immediately.
+Jan 17, 2024 9:23:55 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 9:23:55 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 9:24:01 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:24:01 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:24:04 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:24:04 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:24:10 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:24:10 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:24:18 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:24:22 PM IMSMain displayAllitems
+WARNING: Admin Mode: Price modification panel has been accessed.
+Jan 17, 2024 9:39:10 PM IMSMain priceModificationPanel
+WARNING: Admin Mode: Price modification of the following item complete: Desktop Computer
+Jan 17, 2024 9:39:10 PM IMSMain AdminPMPReturnPrompt
+WARNING: Admin mode: Continue changes or return to main menu 
+Jan 17, 2024 9:39:38 PM IMSMain AdminPMPReturnPrompt
+INFO: Admin choice: Continue price changes
+Jan 17, 2024 9:40:06 PM IMSMain priceModificationPanel
+WARNING: Admin Mode: Price modification of the following item complete: UltraWide Monitor
+Jan 17, 2024 9:40:06 PM IMSMain AdminPMPReturnPrompt
+WARNING: Admin mode: Continue changes or return to main menu 
+Jan 17, 2024 9:40:15 PM IMSMain AdminPMPReturnPrompt
+INFO: Admin choice: Continue price changes
+Jan 17, 2024 9:40:20 PM IMSMain priceModificationPanel
+WARNING: Admin Mode: Invalid index has been entered, instruction not resolved.
+Jan 17, 2024 9:40:44 PM IMSMain priceModificationPanel
+WARNING: Admin Mode: Invalid index has been entered, instruction not resolved.
+Jan 17, 2024 9:42:04 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 9:42:04 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 9:42:06 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:42:06 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:42:08 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:42:08 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:42:12 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:42:12 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:42:14 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:42:17 PM IMSMain displayAllitems
+WARNING: Admin Mode: Price modification panel has been accessed.
+Jan 17, 2024 9:42:21 PM IMSMain priceModificationPanel
+WARNING: Admin Mode: Invalid index has been entered, instruction not resolved.
+Jan 17, 2024 9:42:38 PM IMSMain priceModificationPanel
+WARNING: Admin Mode: Invalid index has been entered, instruction not resolved.
+Jan 17, 2024 9:43:15 PM IMSMain admin
+SEVERE: Admin Mode: Invalid input detected null
+Jan 17, 2024 9:49:56 PM IMSMain main
+INFO: Application started.
+Jan 17, 2024 9:49:56 PM IMSMain initiateLoadingFiles
+INFO: Loading files initiated.
+Jan 17, 2024 9:50:16 PM IMSMain initiateLoadingFiles
+INFO: File upload in progress.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Beginning to load inventory file.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain loadFile
+CONFIG: Data Array has been generated successfully.
+Jan 17, 2024 9:50:16 PM IMSMain introMsg
+INFO: Main menu loading
+Jan 17, 2024 9:50:17 PM IMSMain introMsg
+WARNING: RESTRICTED ACCESS, PRIVILEGED PERSONNEL ONLY
+Jan 17, 2024 9:50:17 PM IMSMain adminPcheck
+SEVERE: Admin Mode: Admin authentication in progress.
+Jan 17, 2024 9:50:19 PM IMSMain adminPcheck
+INFO: Admin Mode: Authentication successful.
+Jan 17, 2024 9:50:19 PM IMSMain admin
+INFO: Admin Mode: Access Granted.
+Jan 17, 2024 9:50:21 PM IMSMain admin
+INFO: Admin Mode: Inventory accessed.
+Jan 17, 2024 9:50:23 PM IMSMain displayAllitems
+WARNING: Admin Mode: Price modification panel has been accessed.
+Jan 17, 2024 9:50:35 PM IMSMain priceModificationPanel
+WARNING: Admin Mode: Price modification of the following item complete: Mini PC
+Jan 17, 2024 9:50:35 PM IMSMain AdminPMPReturnPrompt
+WARNING: Admin mode: Continue changes or return to main menu 
+Jan 17, 2024 9:50:45 PM IMSMain AdminPMPReturnPrompt
+INFO: Admin mode: Invalid input please try again
+Jan 17, 2024 9:50:45 PM IMSMain AdminPMPReturnPrompt
+WARNING: Admin mode: Continue changes or return to main menu 
+Jan 17, 2024 9:52:04 PM IMSMain AdminPMPReturnPrompt
+INFO: Admin mode: Invalid input please try again
+Jan 17, 2024 9:52:04 PM IMSMain AdminPMPReturnPrompt
+WARNING: Admin mode: Continue changes or return to main menu 
+Jan 17, 2024 9:52:34 PM IMSMain AdminPMPReturnPrompt
+INFO: Admin choice: Continue price changes
+Jan 17, 2024 9:52:58 PM IMSMain priceModificationPanel
+WARNING: Admin Mode: Price modification of the following item complete: Desktop Computer
+Jan 17, 2024 9:52:58 PM IMSMain AdminPMPReturnPrompt
+WARNING: Admin mode: Continue changes or return to main menu 
+Jan 17, 2024 9:53:05 PM IMSMain AdminPMPReturnPrompt
+INFO: Admin choice: Return to main menu
+Jan 17, 2024 9:53:05 PM IMSMain introMsg
+INFO: Main menu loading

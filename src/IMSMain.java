@@ -83,6 +83,9 @@ public class IMSMain {
                     userReturnPrompt(thisClass, pCheck);
                 } else {
                     gCheck = false;
+                    logger.log(Level.INFO, "Guest Mode: Input mismatch, please refer to instructions");
+                    guest(thisClass, pCheck);
+
                 }
             } catch (Exception e) {
                 System.out.println("I'm sorry but your input is invalid" + e);
@@ -181,7 +184,7 @@ public class IMSMain {
         userReturnPrompt(thisClass, pCheck);
     }
     public static void gBasket(ArrayList<Items> thisClass, boolean pCheck){
-        //A function to allow users to add individual items to the basket, and update the quantity of the items within the array.
+        //A function to allow users to add individual items to the basket, and auto-updates the quantity of the given items within the array.
         logger.log(Level.INFO, "Guest Mode: Guest Basket accessed.");
         File Basket = new File("Basket.txt");
         if (Basket.length() != 0) {
@@ -205,39 +208,44 @@ public class IMSMain {
 
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the index of the item you would like to add to basket. ( 1 -30 )");
-        int basketSelect = input.nextInt();
+        int basketSelect = Integer.parseInt(input.nextLine());
 
 // A loop to make sure that the input is within the range of scope.
-        if (basketSelect >= 1 && basketSelect <= thisClass.size()) {
-            try (FileWriter out = new FileWriter(Basket)) {
-                for (int i = 0; i < thisClass.size(); i++) {
-                    Items thisItems = thisClass.get(i);
-                    if (basketSelect == i + 1) {
-                        // If loop to find the position of the selected item, and then display the corresponding information
-                        String formattedString = String.format("|Item: %s |Category: %s |Colour %s |Quantity %s| Price %s \n",
-                                thisItems.itemName, thisItems.itemCat, thisItems.itemColour, thisItems.itemQty, thisItems.itemPrice);
-                        out.write(Integer.toString(i) + formattedString);
-                        out.close();
-                        System.out.println("Item added to the basket successfully!.");
-                        System.out.format("|Item: %s |Category: %s |Colour %s | Price %s \n", thisItems.itemName, thisItems.itemCat,thisItems.itemColour, thisItems.itemPrice);
-                        //Item quantity to go down after items have been added to the basket.
-                        logger.log(Level.WARNING, "%s , Item has been added to the basket, lowering the Quantity in the array." + thisItems.itemName);
-                        thisItems.itemQty -= 1;
-                        userReturnPrompt(thisClass,pCheck);
+        try {
+            if (basketSelect >= 1 && basketSelect <= thisClass.size()) {
+                try (FileWriter out = new FileWriter(Basket)) {
+                    for (int i = 0; i < thisClass.size(); i++) {
+                        Items thisItems = thisClass.get(i);
+                        if (basketSelect == i + 1) {
+                            // If loop to find the position of the selected item, and then display the corresponding information
+                            String formattedString = String.format("|Item: %s |Category: %s |Colour %s |Quantity %d| Price %s \n",
+                                    thisItems.itemName, thisItems.itemCat, thisItems.itemColour, 1, thisItems.itemPrice);
+                            out.write(Integer.toString(i) + formattedString);
+                            out.close();
+                            System.out.println("Item added to the basket successfully!.");
+                            System.out.format("|Item: %s |Category: %s |Colour %s | Price %s \n", thisItems.itemName, thisItems.itemCat, thisItems.itemColour, thisItems.itemPrice);
+                            //Item quantity to go down after items have been added to the basket.
+                            logger.log(Level.WARNING, "Following Item has been added to the basket, lowering the Quantity in the array: " + thisItems.itemName);
+                            thisItems.itemQty -= 1;
+                            userReturnPrompt(thisClass, pCheck);
 
+                        }
                     }
+                } catch (IOException e) {
+                    System.out.println("Error occurred writing to file: " + e.getMessage());
+                    logger.log(Level.SEVERE, "Guest Basket: Error occurred writing to file: ." + e.getMessage());
                 }
-            } catch (IOException e) {
-                System.out.println("Error occurred writing to file: " + e.getMessage());
-                logger.log(Level.SEVERE, "Guest Basket: Error occurred writing to file: ." + e.getMessage());
+            } else {
+                System.out.println("Invalid index entered. Please enter an index between 1 and " + thisClass.size());
+                logger.log(Level.INFO, "Guest Basket: Invalid index entered. Reloading Basket. ");
+                //Reload the function incase of an invalid input.
+                gBasket(thisClass, pCheck);
             }
-        } else {
-            System.out.println("Invalid index entered. Please enter an index between 1 and " + thisClass.size());
+        } catch (Exception e){
+            System.out.println("Invalid input, please select an index in the specified range. ");
             logger.log(Level.INFO, "Guest Basket: Invalid index entered. Reloading Basket. ");
-            //Reload the function incase of an invalid input.
             gBasket(thisClass, pCheck);
         }
-
     }
     public static boolean adminPcheck(ArrayList<Items> thisClass, boolean pCheck) {
         //Function to authorize access to the Admin settings
@@ -349,12 +357,16 @@ public class IMSMain {
             System.out.format("The total value of the stock is: £%.2f \n", TotalValue );
             System.out.println("Would you like to update any prices? (Y) Yes (N) No");
             String modifyPrices = adInput.next();
+
             if (modifyPrices.equalsIgnoreCase("y")){
                 logger.log(Level.WARNING, "Admin Mode: Price modification panel has been accessed.");
                 priceModificationPanel(thisClass, pCheck);
             } else if (modifyPrices.equalsIgnoreCase("n")) {
                 logger.log(Level.INFO, "Admin Mode: Return to main menu prompted.");
                 userReturnPrompt(thisClass,pCheck);
+            } else {
+                logger.log(Level.INFO, "Admin Mode: Invalid input detected please try again");
+                displayAllitems(thisClass, pCheck);
             }
     }
 
@@ -385,7 +397,7 @@ public class IMSMain {
 
         } else {
             logger.log(Level.WARNING, "Admin Mode: Invalid index has been entered, instruction not resolved.");
-            System.out.println("Invalid index entered. Please enter an index between 1 and %d)" + thisClass.size());
+            System.out.println("Invalid index entered. Please enter an index between 1 and 30 )");
             priceModificationPanel(thisClass, pCheck);
         }
     }
@@ -437,6 +449,9 @@ public class IMSMain {
             else if (promptRUser.equalsIgnoreCase("n")) {
                 logger.log(Level.INFO, "Admin choice: Return to main menu");
                 introMsg(thisClass, pCheck);
+            } else {
+                logger.log(Level.INFO, "Admin mode: Invalid input please try again");
+                AdminPMPReturnPrompt(thisClass, pCheck);
             }
 
         } catch (Exception e) {
