@@ -217,7 +217,7 @@ public class IMSMain {
                         String formattedString = String.format("|Item: %s |Category: %s |Colour %s |Quantity %s| Price %s \n",
                                 thisItems.itemName, thisItems.itemCat, thisItems.itemColour, thisItems.itemQty, thisItems.itemPrice);
                         out.write(Integer.toString(i) + formattedString);
-                        out.close();
+                        out.close("Basket.txt);
                         System.out.println("Item added to the basket successfully!.");
                         System.out.format("|Item: %s |Category: %s |Colour %s | Price %s \n", thisItems.itemName, thisItems.itemCat,thisItems.itemColour, thisItems.itemPrice);
                         //Item quantity to go down after items have been added to the basket.
